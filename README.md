@@ -3,7 +3,7 @@
 > **The Korean document ([`README.ko.md`](./README.ko.md)) is the original and the one that counts.** This is a medium-length summary so English readers can see what the note is and how careful (or not) it tries to be. It is not a full translation. Some tone and nuance will be lost, and if anything here differs from the Korean text, the Korean text wins.
 
 **Subtitle:** Can AI be a "cognitive expansion medium"? Evidence for benefits, evidence for risks, and the conditions, written down together.
-**Type:** Idea White Paper (Track 2), a literature-organizing note · **Organizer:** deundeuni · **Version:** v1.0 (2026-10-22) · **License:** CC BY 4.0
+**Type:** Idea White Paper (Track 2), a literature-organizing note · **Organizer:** deundeuni · **Version:** v1.0.1 (2026-10-22) · **License:** CC BY 4.0
 
 ---
 
@@ -15,7 +15,7 @@ This is a casual, honest scribble that happened to grow long. A non-expert tried
 - It is **not** an academic paper, a theory proposal, a patent claim, or legal advice. Everything is AS-IS, with no warranty.
 - The organizer is **not a domain expert**. Mistakes are possible. Please check the original sources before relying on anything.
 - **A subjective viewpoint is built in.** This note started from the organizer's own question, so the choice of what to search for and what to include reflects the organizer's perspective. Counter-evidence is placed next to supporting evidence on purpose, but the selection is still one person's, not a complete or neutral survey.
-- AI tools helped with research, citation, and structuring. Verification labels, final approval, and responsibility rest with the organizer.
+- **AI use, stated plainly.** AI tools were used as a means of extending the organizer's thinking, and for literature search, drafting, structuring, and checking against sources. Like a driver-assistance feature (an analogy, not evidence), the AI did a good part of the actual work, while the questions asked, what to include or leave out, how verification labels are assigned, whether to place counter-evidence alongside, final approval, and responsibility rest with the organizer. Errors and overstatements were rechecked with several AI tools; items that could not be confirmed are marked by label.
 
 ## 2. The structure it describes (an example, not a proven method)
 
