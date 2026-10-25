@@ -9,6 +9,8 @@
 
 ## 1. What this is, and what it is not
 
+*Reading order: the Korean document is long. The five-line summary, the "how to read" section, and section 13 (what could not be confirmed) are enough to grasp its character; then pick the parts you care about and check numbers against the original sources.*
+
 This is a casual, honest scribble that happened to grow long. A non-expert tried to line up public papers, statistics, and official documents around one question: *can generative AI be seen not only as a one-way tool but as a mediator that sits between a person's thinking and the result, and changes the thinking along the way? Under what conditions, and with what risks?*
 
 - It claims **no originality**. The ideas belong to their original authors (Latour, Verbeek, Vygotsky, Clark & Chalmers, Engelbart, Licklider, Akata et al., and others). The organizer only arranged them.
@@ -27,7 +29,7 @@ A person is the hub for direction and final checking. Several AIs take turns on 
 | **Common brief** | One shared document handed to every AI, so they work from the same context. | The whole template: goal / audience / premises / red lines / verification-level rules / mode / known limits |
 | **Mode tagging** | "Confirmed" (only what a human verified) vs. "exploratory" (just looking at possibilities, not a decision). | Verification-level rules, mode |
 
-Whether this loop actually reduces errors in real use has **not been shown** (see section 5).
+The "mediator" framing is closer to a metaphor than a strict definition, and the loop itself is the organizer's hypothesis, not a tested method. Whether this loop actually reduces errors in real use has **not been shown** (see section 6).
 
 ## 3. How to read the labels
 
@@ -60,6 +62,7 @@ Anything the organizer *inferred* is marked as "organizer's inference (not evide
 **Human + AI is not automatically better**
 - A meta-analysis found human+AI combinations were on average worse than the better of the two alone; decision tasks showed a significant loss, content-creation tasks did not (Vaccaro et al., Nat Hum Behav 2024). *Catch:* possible publication bias and differences in study design.
 - "A human is overseeing it" does not by itself make things safe (e.g., Green 2022).
+- People can overestimate their own performance when working with AI: in two online studies (Fernandes et al., 2026), participants who solved logic problems with AI scored about 3 points higher than a non-AI comparison but overestimated their own score by about 4 points. *Catch:* a quasi-experiment, correlational reading, and AI literacy was self-reported.
 
 **Asking several AIs**
 - Letting copies of a model debate raised benchmark accuracy (Du et al., ICML 2024). *Catch:* benchmark tasks, mostly copies of the same model; confident facts were hard to change.
@@ -84,6 +87,7 @@ Anything the organizer *inferred* is marked as "organizer's inference (not evide
 - Labels: each source is labeled by whether the full text or only an abstract or summary was checked (section 3).
 - Numbers: figures and judgments were compared with the original text, and mismatches were corrected, including wrong readings found while building this note.
 - Cross-checking: AI tools re-reviewed drafts, but that is not independent verification; the final check rests on comparison with the originals and the organizer's review.
+- Inclusion: papers that fit the organizer's question were sought, with a preference for those whose originals could be obtained, and counter-evidence was placed alongside supporting evidence. Search terms and excluded papers were not recorded.
 - Limits: there is no systematic search protocol and no expert review. Some checks, such as confirming that every link opens, remain.
 - The organizer routinely works this way and works on the premise that it can be wrong. This is the organizer's own statement, not evidence.
 - This is one case of applying the structure in section 2. It is only a case; whether the approach reduces errors is not confirmed here.
@@ -95,7 +99,7 @@ Anything the organizer *inferred* is marked as "organizer's inference (not evide
 3. How long-term use changes ways of thinking.
 4. Whether background *causes* differences in AI-use ability.
 
-Also: many sources were read only at abstract level, some are preprints, and a few are secondary summaries. A handful of recent papers on human-checked, AI-assisted literature work are listed as *related references only*. None of them tests the way of working described here, and none should be read as proof that it is right. The full list of unverified items is in section 13 of the Korean document, and section 12 there lists all sources with their labels.
+Also: many sources were read only at abstract level, some are preprints, and a few are secondary summaries. A handful of recent papers on human-checked, AI-assisted literature work are listed as *related references only*. None of them tests the way of working described here, and none should be read as proof that it is right. As a rough scale (v1.0.2): of 74 source entries in section 12 of the Korean document, 32 carry at least one weaker label (abstract, preprint, secondary, excerpt, or partial check), and section 13 lists 28 unverified items. Entries can hold several sources, so these are approximate counts. The full list of unverified items is in section 13 of the Korean document, and section 12 there lists all sources with their labels.
 
 ## 7. The organizer's own inferences (kept separate, not evidence)
 
