@@ -2,6 +2,8 @@
 
 > **The Korean document ([`README.ko.md`](./README.ko.md)) is the original and the one that counts.** This is a medium-length summary so English readers can see what the note is and how careful (or not) it tries to be. It is not a full translation. Some tone and nuance will be lost, and if anything here differs from the Korean text, the Korean text wins.
 
+**TL;DR.** (1) How AI is used matters: in one large school study, answer-only use lowered later scores without AI by about 17%, while hint-style design avoided that loss but gave no gain; gains reported elsewhere are conditional and mostly short-term. (2) Human+AI is not automatically better: on average, combinations did worse than the better of the two alone, and checking AI output still falls largely on the person who publishes it. (3) This note does **not** show that any particular way of working, including the loop described here, reduces errors; the four open questions are listed in section 1.
+
 **Subtitle:** Can AI be a "cognitive expansion medium"? Evidence for benefits, evidence for risks, and the conditions, written down together.
 **Type:** Idea White Paper (Track 2), a literature-organizing note · **Organizer:** deundeuni · **Version:** v1.0.2 (2026-10-24) · **License:** CC BY 4.0
 
@@ -13,6 +15,7 @@
 
 This is a casual, honest scribble that happened to grow long. A non-expert tried to line up public papers, statistics, and official documents around one question: *can generative AI be seen not only as a one-way tool but as a mediator that sits between a person's thinking and the result, and changes the thinking along the way? Under what conditions, and with what risks?*
 
+- **What it could not confirm:** (1) whether cross-checking with several AIs reduces errors in real use, (2) the effect of the "human as hub" loop itself, (3) how long-term use changes ways of thinking, (4) whether background causes differences in AI-use ability. Details are in section 6.
 - It claims **no originality**. The ideas belong to their original authors (Latour, Verbeek, Vygotsky, Clark & Chalmers, Engelbart, Licklider, Akata et al., and others). The organizer only arranged them.
 - It is **not** an academic paper, a theory proposal, a patent claim, or legal advice. Everything is AS-IS, with no warranty.
 - The organizer is **not a domain expert**. Mistakes are possible. Please check the original sources before relying on anything. The source list can be wrong too (bibliographic details or links may be off), so open the originals before citing.
